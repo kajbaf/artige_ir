@@ -117,3 +117,8 @@
 	path = OCA/project-agile
 	url = git@github.com:OCA/project-agile.git
 	branch = 11.0
+
+[submodule "OCA/event"]
+	path = OCA/event
+	url = git@github.com:OCA/event.git
+	branch = 11.0
