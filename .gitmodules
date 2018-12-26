@@ -67,3 +67,8 @@
 	path = OCA/commission
 	url = git@github.com:OCA/commission.git
 	branch = 11.0
+
+[submodule "OCA/multi-company"]
+	path = OCA/multi-company
+	url = git@github.com:OCA/multi-company.git
+	branch = 11.0
