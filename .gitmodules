@@ -72,3 +72,8 @@
 	path = OCA/multi-company
 	url = git@github.com:OCA/multi-company.git
 	branch = 11.0
+
+[submodule "OCA/operating-unit"]
+	path = OCA/operating-unit
+	url = git@github.com:OCA/operating-unit.git
+	branch = 11.0
