@@ -132,3 +132,8 @@
 	path = OCA/connector
 	url = git@github.com:OCA/connector.git
 	branch = 11.0
+
+[submodule "Smile-SA/odoo_addons"]
+	path = Smile-SA/odoo_addons
+	url = git@github.com:Smile-SA/odoo_addons.git
+	branch = 11.0
