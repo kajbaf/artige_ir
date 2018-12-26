@@ -122,3 +122,8 @@
 	path = OCA/event
 	url = git@github.com:OCA/event.git
 	branch = 11.0
+
+[submodule "OCA/website-cms"]
+	path = OCA/website-cms
+	url = git@github.com:OCA/website-cms.git
+	branch = 11.0
