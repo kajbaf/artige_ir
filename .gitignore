@@ -289,3 +289,6 @@ venv.bak/
 .mypy_cache/
 
 /Artige/settings.conf
+odoo.conf
+odoo-server.log
+
